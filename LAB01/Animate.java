@@ -1,4 +1,5 @@
-// Writing a program that animates a small object of my own design.
+// Writing a program that animates a small object of my own design (Submarine).
+
 
 PShape sub, end1, end2, mainBody, window1, window2, window3, window4, lookout1, lookout2, lookout3, lookout4, top;
 
